@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0717B22F-C2CF-422B-8DDE-AF7CD256D37A</title>
+    <defs>
+        <path d="M3.91899991,3.41000009 C5.36499989,2.24600005 7.61499965,0 9.55799961,0 C11.5,0 13.7949997,2.23500013 15.2539997,3.41000009 C18.5589998,6.47500014 19.1720009,6.08200026 19.1720009,11.7130003 C19.1720009,20 17.2130003,20 9.58600044,20 C1.95900059,20 0,20 0,11.7130003 C0,6.08200026 0.613999844,6.47500014 3.91899991,3.41000009 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.1720009" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="0,0" stroke-linecap="round" stroke-linejoin="round">
+        <g id="1-Episode" transform="translate(-79.000000, -762.000000)" stroke="#C6CEDD">
+            <g id="Group-682" transform="translate(22.000000, 743.000000)">
+                <g id="Group-681" transform="translate(51.000000, 17.000000)">
+                    <g id="Iconly/Curved/Home" transform="translate(4.000000, 0.000000)">
+                        <g id="Home" transform="translate(2.399902, 2.000000)">
+                            <use id="Stroke-2" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                            <line x1="6.67871094" y1="14.1367188" x2="12.493711" y2="14.1367188" id="Stroke-1" stroke-width="1.5"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

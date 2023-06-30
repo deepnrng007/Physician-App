@@ -1,0 +1,204 @@
+
+App Thinning Size Report for All Variants of physicianAppProvider
+
+Variant: ENavProvider-157897C6-DC64-491C-B545-B2D2F00729D6.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], and [device: iPhone9,2, os-version: 12.2]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-1FACAEA7-526E-49E6-BF3A-E3A9B3F71A89.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 15.0] and [device: iPhone11,8, os-version: 15.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-22D317D6-229D-4C56-84FA-A5EEB4AFE25E.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 14.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 13.0], [device: iPod9,1, os-version: 14.0], [device: iPhone8,4, os-version: 13.0], and [device: iPod9,1, os-version: 13.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-4B21BC46-66D4-4E94-B3C8-ACDE55BD6879.ipa
+Supported variant descriptors: [device: iPad7,5, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad6,11, os-version: 11.0], [device: iPad4,6, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad4,9, os-version: 11.0], [device: iPad5,2, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,8, os-version: 11.0], [device: iPad5,2, os-version: 11.0], [device: iPad4,9, os-version: 12.0], [device: iPad4,7, os-version: 11.0], [device: iPad4,8, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,1, os-version: 11.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,6, os-version: 11.0], [device: iPad6,8, os-version: 11.0], [device: iPad5,3, os-version: 11.0], [device: iPad7,5, os-version: 11.0], [device: iPad4,2, os-version: 11.0], [device: iPad7,6, os-version: 11.0], [device: iPad4,3, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad6,7, os-version: 11.0], [device: iPad4,5, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad6,12, os-version: 11.0], [device: iPad4,3, os-version: 11.0], [device: iPad4,4, os-version: 11.0], [device: iPad5,1, os-version: 11.0], [device: iPad4,2, os-version: 12.0], [device: iPad5,4, os-version: 11.0], [device: iPad4,5, os-version: 11.0], and [device: iPad4,7, os-version: 12.0]
+App + On Demand Resources size: 12.9 MB compressed, 30.2 MB uncompressed
+App size: 12.9 MB compressed, 30.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-4DB6F6B7-A8CD-4ABD-8EF0-516C5E54AFAE.ipa
+Supported variant descriptors: [device: iPad7,11, os-version: 15.0], [device: iPad11,7, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad12,2, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad5,1, os-version: 15.0], and [device: iPad6,11, os-version: 15.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-4EB87951-53C5-48AC-A47B-ACE6B28420FB.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 11.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone9,2, os-version: 11.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,6, os-version: 11.0], and [device: iPhone10,2, os-version: 12.0]
+App + On Demand Resources size: 13 MB compressed, 30.2 MB uncompressed
+App size: 13 MB compressed, 30.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-5FAA85CD-57D4-437F-B5D2-F53AF30F4958.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 14.0], [device: iPhone12,1, os-version: 14.0], [device: iPhone11,8, os-version: 13.0], and [device: iPhone12,1, os-version: 13.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-61475F5C-09E3-48C9-840C-AAC063F599DA.ipa
+Supported variant descriptors: [device: iPad13,8, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: iPad11,3, os-version: 15.0], [device: iPad13,16, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad13,17, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad13,5, os-version: 15.0], and [device: iPad11,4, os-version: 15.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-668835B1-F3DA-4481-B73A-ABA561530ABB.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.2] and [device: iPhone8,2, os-version: 12.2]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-6B7268EF-CEA3-442B-B5FE-C6AA7E8C9C04.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 11.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone8,2, os-version: 11.0], and [device: iPhone7,1, os-version: 12.0]
+App + On Demand Resources size: 13 MB compressed, 30.2 MB uncompressed
+App size: 13 MB compressed, 30.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-6CD0EEE9-17E0-4C08-8F4F-3952EE5626AA.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad6,4, os-version: 11.0], [device: iPad7,1, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad7,1, os-version: 11.0], [device: iPad6,3, os-version: 11.0], [device: iPad7,4, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad7,4, os-version: 11.0], [device: iPad7,3, os-version: 11.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad8,5, os-version: 12.0], and [device: iPad7,2, os-version: 11.0]
+App + On Demand Resources size: 12.9 MB compressed, 30.2 MB uncompressed
+App size: 12.9 MB compressed, 30.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-762FDC0A-E57A-4A02-95E9-30964A2C78BA.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 12.9 MB compressed, 30.2 MB uncompressed
+App size: 12.9 MB compressed, 30.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-8940692F-A1B0-48FC-888E-00CA9F2F7534.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], and [device: iPhone9,3, os-version: 11.0]
+App + On Demand Resources size: 12.9 MB compressed, 30.2 MB uncompressed
+App size: 12.9 MB compressed, 30.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-99895748-249D-4114-A267-2A03A44A8992.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 15.0], [device: iPhone14,6, os-version: 15.0], [device: iPhone9,3, os-version: 15.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone12,8, os-version: 15.0], and [device: iPhone9,1, os-version: 15.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-99BF6028-7CE2-4FAB-BD8D-67ADAD468FB3.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], and [device: iPhone9,3, os-version: 12.2]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-9A7ABB1B-9489-402F-906C-46EAC05C3C6E.ipa
+Supported variant descriptors: [device: iPad13,5, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad13,9, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad13,7, os-version: 14.0], [device: iPad13,11, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad11,2, os-version: 14.0], [device: iPad13,10, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad11,3, os-version: 13.0], [device: iPad7,1, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad7,2, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad8,9, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,4, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,3, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,12, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,12, os-version: 13.0], and [device: iPad13,1, os-version: 14.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-9BCFC376-427D-42BB-ABE5-B4A1793354F6.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-9D373D79-0E34-4163-B872-F06C1CECEEBC.ipa
+Supported variant descriptors: [device: iPad4,8, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad4,2, os-version: 12.2], and [device: iPad4,5, os-version: 12.2]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-9D505C98-808C-4F16-9F85-21C43FCE9A8E.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], and [device: iPhone8,1, os-version: 12.2]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-B44D9826-F726-4831-9B37-90584492E2A1.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-C187FDD0-D3F3-4069-8C0A-8471234574CA.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0] and [device: iPhone8,2, os-version: 14.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-C5A2D952-7D42-4146-9C43-44FFA4F8FC38.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,4, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad11,7, os-version: 14.0], [device: iPad7,5, os-version: 13.0], [device: iPad5,3, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad7,12, os-version: 14.0], and [device: iPad5,2, os-version: 13.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-CBCB9EE3-07E5-4E58-BC8C-EBB95DE51CF2.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 15.0], [device: iPhone8,4, os-version: 15.0], and [device: iPod9,1, os-version: 15.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-D04BBD9A-FAD9-434B-9D28-06B772A83C80.ipa
+Supported variant descriptors: [device: iPhone12,8, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone10,4, os-version: 14.0], and [device: iPhone10,4, os-version: 13.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-E340E85F-8C92-4CE3-9C72-62C6DB0D6037.ipa
+Supported variant descriptors: [device: iPhone13,1, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], and [device: iPhone10,5, os-version: 13.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-E5A89A8F-CDAC-47D2-B428-68699EE593B2.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 15.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone10,6, os-version: 15.0], and [device: iPhone13,4, os-version: 15.0]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-F6AA18C4-52E7-4827-B09D-679B8B706DF5.ipa
+Supported variant descriptors: [device: iPhone6,2, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPhone8,1, os-version: 11.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone6,1, os-version: 11.0], [device: iPhone6,2, os-version: 11.0], [device: iPod7,1, os-version: 11.0], [device: iPhone7,2, os-version: 11.0], [device: iPhone8,4, os-version: 11.0], [device: iPod7,1, os-version: 12.0], and [device: iPhone7,2, os-version: 12.0]
+App + On Demand Resources size: 12.9 MB compressed, 30.2 MB uncompressed
+App size: 12.9 MB compressed, 30.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider-FDCDA287-0301-41C2-A16F-B098BB0ECEE2.ipa
+Supported variant descriptors: [device: iPad11,3, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,2, os-version: 12.2], and [device: iPad8,7, os-version: 12.2]
+App + On Demand Resources size: 10.6 MB compressed, 23.2 MB uncompressed
+App size: 10.6 MB compressed, 23.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ENavProvider.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 13.1 MB compressed, 30.4 MB uncompressed
+App size: 13.1 MB compressed, 30.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

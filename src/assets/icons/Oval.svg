@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="306px" height="474px" viewBox="0 0 306 474" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>6B2796E4-292A-4AA3-9222-63D911196F5B</title>
+    <defs>
+        <filter x="-44.9%" y="-44.9%" width="189.8%" height="189.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="41" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.06">
+        <g id="1-Episode-Home" transform="translate(0.000000, -230.000000)" fill="#0BFFDA">
+            <circle id="Oval" filter="url(#filter-1)" cx="69" cy="467" r="137"></circle>
+        </g>
+    </g>
+</svg>

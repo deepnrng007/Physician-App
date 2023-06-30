@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291985425456",
+    "project_id": "demofcm-54782",
+    "storage_bucket": "demofcm-54782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291985425456:android:c50a114a3a10f19faf19f5",
+        "android_client_info": {
+          "package_name": "com.episodesolutions.enavprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291985425456-csmgqjrl5hn4cke5usn11urper2d5t0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAZZFRy7WAMN_W8rvUefY1eIABzuhFCE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291985425456-csmgqjrl5hn4cke5usn11urper2d5t0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

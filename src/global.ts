@@ -1,0 +1,16 @@
+export const global = {
+  PREVIOUSSCREEN: null,
+  ACCESS_TOKEN: null,
+  FCM_TOKEN: null,
+  LOGIN_ACCESS_TOKEN: null,
+  OWNER_EMAILID: null,
+  OWNER_USERID: null,
+  ISPREVIOUSTOCAPPROVED: false,
+  TWILIOCLIENT: null,
+  NAVIGATIONGLOBALREF: null,
+  ISFIRSTTIMELOGGED: false,
+  CONVERSATIONREF: null as any,
+  ISREFRESHTOKENCALLED: false,
+  NOTIFICATIONNAVIGATEPENDING: null as any,
+  BINDINGSID: null as any,
+};
